@@ -30,7 +30,10 @@ deleteStudent(student_id):
 
 To delete a student record, call the deleteStudent function and provide the student ID of the record to be deleted.
 
-I am writing to inform you about an issue I'm encountering while trying to push my code to my GitHub repository for the assignment [Assignment Name]. Despite following the instructions provided and ensuring that my Git configurations are correct, I'm experiencing difficulties with the permissions when attempting to push changes to the repository.
+
+
+
+I am writing to inform you about an issue I'm encountering while trying to push my code to my GitHub repository for the assignment. Despite following the instructions provided and ensuring that my Git configurations are correct, I'm experiencing difficulties with the permissions when attempting to push changes to the repository.
 
 Here are the details of the problem:
 
@@ -163,3 +166,12 @@ getAllStudents()
 deleteStudent(2)
 getAllStudents()
 
+
+
+
+
+
+
+
+Here is the video to below:
+https://youtu.be/UR6C9RVqBJc
